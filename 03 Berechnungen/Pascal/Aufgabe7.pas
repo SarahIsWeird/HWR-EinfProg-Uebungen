@@ -9,7 +9,7 @@
     Ich übernehme keine Haftung für etwaige entstandenen Schäden.
 }
 
-Program Aufgabe6;
+Program Aufgabe7;
 
 {$codepage utf8}
 
